@@ -1,2 +1,2 @@
 # Ergonomic-with-Machine-learning
-Submission to Hack@home
+Using Machine learning to identify safety hazard in warehouse workers
